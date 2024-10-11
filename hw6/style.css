@@ -1,0 +1,69 @@
+table, td {
+    border: 4px solid black;
+    border-spacing: 0px;
+}
+
+table {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
+
+.one {
+    height: 35px;
+}
+
+.six {
+    background-color: rgb(251,219,21);
+}
+
+.fourteen{
+    background-color: rgb(251,219,21);
+}
+
+.ten {
+    width: 40%;
+    background-color: rgb(243,20,12);
+}
+
+.thin {
+    width: 4%;
+}
+
+.nine {
+    width: 6%;
+}
+
+.seventythree {
+    height: 15px;
+}
+
+.fourtynine {
+    background-color: rgb(251,219,21);
+}
+
+.fifty {
+    background-color: black;
+}
+
+.fiftysix {
+    background-color: rgb(243,20,12);
+}
+
+.sixtytwo {
+    background-color: rgb(12,11,179);
+}
+
+.sixtyeight {
+    height: 29px;
+    background-color: black;
+}
+
+.twentysix, .thirty {
+    height: 10%;
+    width: 10%;
+}
+
+.fiftytwo, .sixty {
+    height: 60px;
+}

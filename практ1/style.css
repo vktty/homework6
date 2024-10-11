@@ -1,0 +1,28 @@
+table {
+    margin: 0 auto;
+    font-weight: 550;
+}
+
+caption {
+    padding-bottom: 5px;
+}
+
+table, td {
+    border: 1px solid pink;
+    border-spacing: 0px;
+    text-align: center;
+    width: 75%;
+}
+
+td {
+    width: auto;
+    padding: 10px;
+}
+
+.three {
+    width: 33.33%;
+}
+
+.two {
+    height: 200px;
+}

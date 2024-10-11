@@ -1,0 +1,51 @@
+table, td {
+    border: 1px solid green;
+    border-spacing: 0;
+    text-align: center;
+    width: 90%;
+}
+
+caption {
+    padding-bottom: 5px;
+}
+
+td {
+    width: auto;
+    padding: 10px;
+}
+
+table {
+    margin: 0 auto;
+    font-weight: 550;
+}
+
+.three {
+    width: 60%;
+}
+
+.four {
+    width: 28%;
+}
+
+.ttwo {
+    border-spacing: 0;
+    text-align: center;
+    width: 80%;
+}
+
+.ttwo {
+    font-weight: 550;
+    margin: 10px auto;
+}
+
+.tfe {
+    width: 33%;
+}
+
+.ts {
+    height: 200px;
+}
+
+.fs {
+    height: 200px;
+}
